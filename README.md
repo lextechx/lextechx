@@ -1,6 +1,8 @@
 ### Achievements
 
-<img width="352" alt="hashicorp-certified-terraform-associate" src="https://user-images.githubusercontent.com/33466618/115296617-cb7e2780-a120-11eb-9240-301977f8df4e.png">
+<img width="137" alt="hashicorp-certified-terraform-associate-3" src="https://user-images.githubusercontent.com/33466618/115298295-e9e52280-a122-11eb-890a-aa8e60534c51.png">
+
+
 
 ### Bio
 
