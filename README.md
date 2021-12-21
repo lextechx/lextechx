@@ -8,5 +8,5 @@
 
 - 🔭 Currently working on IAC with a Terraform focus in the AWS platform
 - 🌱 Learning ML/AI skills in AWS  
-- ⚡ Fun fact: yoga instructor and jujitsu blue belt
+- ⚡ Fun fact: yoga instructor and jiu jitsu blue belt
 
